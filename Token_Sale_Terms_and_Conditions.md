@@ -13,15 +13,16 @@ and Company is a “**Party**” and, together, the “**Parties**.”
 
 By purchasing RHOCs from us during the Sale, you will be bound by these
 Terms and any terms incorporated by reference. If you have any questions
-regarding these Terms, please contact us at **tokensale@rchain.coop**.
+regarding these Terms, please contact us at **tokensale@rchain.com**.
 
 You and Company agree as follows:
 
 1.  ***Commencement and Duration of Sale.*** The Company will conduct a
     private sale of RHOCs (the “**Sale**”), which will begin at 8:00 AM
-    PDT on August 29, 2017 (the “Launch Date”) and end at 5:00 PM PDT on
-    September 28, 2017 (the “Sale End Date”), or when \$15,000,000 U.S.
-    Dollar (“USD”) worth of RHOC has been sold, whichever is earlier.
+    PDT on August 29^th^, 2017 (the “Launch Date”) and end at 5:00 PM
+    PDT on September 28, 2017 (the “Sale End Date”), or when
+    $15,000,000 U.S. Dollar (“USD”) worth of RHOC has been sold,
+    whichever is earlier.
 
 2.  ***Eligibility.*** In order to be eligible to participate in the
     Sale you must be registered as a member of RChain Cooperative. In
@@ -46,7 +47,7 @@ You and Company agree as follows:
 3.  ***Purchase and Sale of RHOCs.***
 
     a.  ***Price; Payment Currencies.*** The USD price per RHOC is
-        \$0.20 (“**Price Per RHOC**”). While the Price Per RHOC is set
+        $0.20 (“**Price Per RHOC**”). While the Price Per RHOC is set
         in USD, you may pay for RHOCs in either USD, Ether (“**ETH**”),
         or BTC (each, a “**Payment Currency**”).
 
@@ -299,11 +300,7 @@ You and Company agree as follows:
         by you or any other employee or agent of such entity (references
         to “you” in these Terms refer to you and such entity, jointly);
 
-    k.  []{#_Hlk489010908 .anchor}You are not resident or domiciled in
-        the state of New York or purchasing RHOC from a location in New
-        York State; and
-
-    l.  You are not (i) a citizen or resident of a geographic area in
+    k.  You are not (i) a citizen or resident of a geographic area in
         which access to or use of the Services or the acceptance of
         delivery of the RHOC is prohibited by applicable law, 6 decree,
         regulation, treaty, or administrative act, (ii) a citizen or
