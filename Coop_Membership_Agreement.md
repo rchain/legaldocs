@@ -52,7 +52,7 @@ A.  ***Membership***
     process will be voted upon by the Coop’s members. A Member may not
     vote for their own selection for a committee.
 
-6.  ***Membership is nonrefundable and nontransferable.***
+6.  **Membership is nonrefundable and nontransferable. **
 
 <!-- -->
 
@@ -72,6 +72,9 @@ A.  ***Representations and Warranties***. By signing up to become a Coop
 
 4.  Your enrollment as a member complies with all applicable laws and
     regulations in your jurisdiction.
+
+**\
+**
 
 A.  ***Acceptable Use Policy***. The following sets forth the Coop’s
     “Acceptable Use Policy”:
@@ -318,7 +321,7 @@ A.  ***Disclaimers***
     is held unlawful, void or unenforceable, then that term, clause or
     provision will be severable from these Terms and will not affect the
     validity or enforceability of any remaining part of that term,
-    clause or provision, or any other term, clause or provision of tese
+    clause or provision, or any other term, clause or provision of these
     Terms.
 
 8.  ***Miscellaneous***. These Terms constitute the entire agreement
