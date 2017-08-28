@@ -13,7 +13,7 @@ and Company is a “**Party**” and, together, the “**Parties**.”
 
 By purchasing RHOCs from us during the Sale, you will be bound by these
 Terms and any terms incorporated by reference. If you have any questions
-regarding these Terms, please contact us at **tokensale@rchain.com**.
+regarding these Terms, please contact us at **tokensale@rchain.coop**.
 
 You and Company agree as follows:
 
