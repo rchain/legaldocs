@@ -446,7 +446,7 @@ You and Company agree as follows:
         claims Dispute within thirty (30) days of the date it arises, so
         that the Parties can attempt in good faith to resolve the
         Dispute informally. Notice to the Company shall be sent by
-        e-mail to the Company at legal@civic.com. Notice to you shall be
+        e-mail to the Company at notices@rchain.coop. Notice to you shall be
         by email to the email address you provide to us. Your notice
         must include (i) your name, postal address, email address and
         telephone number, (ii) a description in reasonable detail of the
