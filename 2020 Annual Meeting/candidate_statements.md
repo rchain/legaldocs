@@ -4,7 +4,7 @@
 
 <img src="https://github.com/rchain/www.rchain.coop/blob/master/assets/leadership/rchain-team-greg-meredith-squared.jpg" width="300"> [LinkedIn](https://www.linkedin.com/in/lucius-meredith-547645/)
 
-Lucius Gregory (Greg) Meredith is the president of the RChain Cooperative. Greg is a mathematician, and the discoverer of the rho-calculus, a co-inventor of the LADL algorithm, and the inventor of the ToGL approach to graph theory.
+Lucius Gregory (Greg) Meredith is a founder and currently the president of the RChain Cooperative. Greg is a mathematician, and the discoverer of the rho-calculus, a co-inventor of the LADL algorithm, and the inventor of the ToGL approach to graph theory.
 
 ## RAO BHAMIDIPATI
 
