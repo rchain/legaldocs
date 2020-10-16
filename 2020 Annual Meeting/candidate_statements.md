@@ -23,9 +23,7 @@ I have over 10 years of experience, which includes banking, accounting, financia
 I would like the opportunity to step forward and represent other women in a market highly dominated by men, by providing my skills and academic background as the first woman on the Board of Directors of RChain.  My sole purpose as a board member would be to look out for the co-op’s (and members') best interest, and like many other members, I want to be part of RChain’s success.
 
 ## KANE LUO
-
-![](kaneluo.jpg)
-[LinkedIn](https://www.linkedin.com/in/kane-luo-a9693541)
+<img src="https://github.com/rchain/www.rchain.coop/blob/master/assets/leadership/kane-luo.jpg" width="300"> [LinkedIn](https://www.linkedin.com/in/kane-luo-a9693541)
 
 I’m Kane Luo, a specialist of sales and marketing with 10 years experience. I worked for an No.1 company in industry and led the regional business revenue to grow from $3 million to $75 million within 5 years. I’m founder of Eomvision, an AI technology company provides vision solutions for Internet of Things. 
 
