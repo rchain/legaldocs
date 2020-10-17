@@ -10,7 +10,7 @@ Lucius Gregory (Greg) Meredith is a founder and currently the president of the R
 
 <img src="https://github.com/rchain/www.rchain.coop/blob/master/assets/leadership/rao-b.jpg" width="300"> [LinkedIn](https://www.linkedin.com/in/vraobhamidipati/)
 
-My name is Rao Bhamidipati. I have been involed with RChain since the 2018 Governance conference in Seattle. Since July 2019, I engaged more deeply with Rchain in turning the project around, delivering the platform technology and several other strategic initiatives, including:
+I am Rao Bhamidipati. I have been involved with RChain since the 2018 Governance conference in Seattle. Starting in July 2019, I engaged deeply with Rchain in turning the project around, delivering the platform technology and several other strategic initiatives, including:
 
 - Sustained the technical development momentum with developers from the community when the funds ran out and the previous developer team left en masse.
 - Successfully delivered the mainnet in February 2020 in spite of challenging circumstances and continue to manage the technology delivery program with improved features and quality. I do the technical update part of the community debriefs on Wednesdays.
@@ -19,9 +19,9 @@ My name is Rao Bhamidipati. I have been involed with RChain since the 2018 Gover
 - Contributed to the strategy and business plan for RSaas special purpose vehicle (SPV)
 - Currently working intensely on building the developer ecosystem including a hackathon scheduled for Nov 7-8, 2020
 
-Prior to RChain, I had nearly thiry years of experience in the IT and management consulting field. In addition to ten years at Xerox in confidential level management positions with global business exposure, I also worked with many Fortune 100 companies in business and technology roles. I have experience with intrapreneurship in large companies as well as starting and leading startups from scratch. 
+Prior to RChain, I had nearly thirty years of experience in the IT and management consulting field. In addition to ten years at Xerox in confidential level management positions with global business exposure, I also worked with many Fortune 100 companies in business and technology roles. I have experience with intrapreneurship in large companies as well as starting and leading startups from scratch. 
 
-I had multiple board experiences over the years, including as a Xerox appointee to the board of the Minority Business Development Corporation (Rochester, NY), with the Association for Image and Information Management (Ohio Chapter), and the Healthcare Financial Management Association HFMA (Central Indiana chapter). 
+I had multiple board experiences over the years, including as a Xerox appointee to the board of the Minority Business Development Corporation (Rochester, NY), with the Association for Image and Information Management (Ohio chapter), and the Healthcare Financial Management Association HFMA (Central Indiana chapter). 
 
 I have a Bachelor's in Electrical Engineering, Masters in Business Administration (merit scholarship) and a Masters in Computer Science (with full fellowship). Additionally, I participated in industry training like the Xerox Product Development Management program and kept uptodate with industry skills and certifications, such as passing the Certified Treasury Professional exam, getting certified with the Healthcare Financial Management Association etc. I had multiple board experiences over the years.
 
