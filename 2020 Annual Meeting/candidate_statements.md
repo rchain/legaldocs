@@ -23,7 +23,7 @@ Prior to RChain, I had nearly thirty years of experience in the IT and managemen
 
 I had multiple board experiences over the years, including as a Xerox appointee to the board of the Minority Business Development Corporation (Rochester, NY), with the Association for Image and Information Management (Ohio chapter), and the Healthcare Financial Management Association HFMA (Central Indiana chapter). 
 
-I have a Bachelor's in Electrical Engineering, Masters in Business Administration (merit scholarship) and a Masters in Computer Science (with full fellowship). Additionally, I participated in industry training like the Xerox Product Development Management program and kept uptodate with industry skills and certifications, such as passing the Certified Treasury Professional exam, getting certified with the Healthcare Financial Management Association etc. I had multiple board experiences over the years.
+I have a Bachelor's in Electrical Engineering, Masters in Business Administration (merit scholarship) and a Masters in Computer Science (with full fellowship). Additionally, I participated in industry training such as the Xerox Product Development Management program and kept uptodate with industry skills and certifications, such as passing the Certified Treasury Professional exam, getting certified with the Healthcare Financial Management Association etc. 
 
 I hope you will elect me to the Rchain board. With your support, I would like to bring my skills in technology, business strategy, finance and operations to stabilize Rchain and enhance our market position such that we are the best and most respected platform and organization in the blockchain/ digital ledger space and beyond.
 
