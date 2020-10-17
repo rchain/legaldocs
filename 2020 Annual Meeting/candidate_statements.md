@@ -8,9 +8,22 @@ Lucius Gregory (Greg) Meredith is a founder and currently the president of the R
 
 ## RAO BHAMIDIPATI
 
-<img src="https://github.com/rchain/www.rchain.coop/blob/master/assets/leadership/rao-bhamidipati.jpg" width="300"> [LinkedIn](https://www.linkedin.com/in/vraobhamidipati/)
+<img src="https://github.com/rchain/www.rchain.coop/blob/master/assets/leadership/rao-b.jpg" width="300"> [LinkedIn](https://www.linkedin.com/in/vraobhamidipati/)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.## ERIC MENG
+My name is Rao Bhamidipati. I have been involed with RChain since the 2018 Governance meeting in Seattle. Since July 2019, I engaged more deeply with Rchain in turning the project around, delivering the platform technology and several other strategic initiatives, including:
+
+- Sustained the technical development momentum when the funds ran out and the previous developer team left enmasse.
+- Successfully delivered the mainnet in February 2020 in spite of challenging circumstances and continue to manage the technology delivery program with improved features and quality. I update the community about these developments during the weekly debriefs on Wednesdays.
+- Contributed as a member of the Governane committee for nearly two years (including helping with the 2019 elections processes and technology) and have been chairing it since July 2020
+- Initiated a Tech Governance committee to manage the techno-economic governance of the platform. Worked with community members to come up with appropriate processes and decision mechanisms to govern the growth and security of the Rchain network for all stakeholders
+- Contributed to the strategy and business plan for RSaas special purpose vehicle (SPV)
+- Currently working intensely on building the developer ecosystem including a hackathon scheduled for Nov 7-8, 2020
+
+Prior to RChain, I had nearly thiry years of experience in the IT and management consulting field. In addition to ten years at Xerox in confidential level management positions with global business exposure, I also worked with many Fortune 100 companies in business and technology roles. I have experience with intrapreneurship in large companies as well as starting and leading startups from scratch. 
+
+I have a Bachelor's in Electrical Engineering, Masters in Business Administration (Merit scholarship) and a Masters in Computer Science (with full fellowship). Additionally, I participated in industry training like the Xerox Product Development Management program and kept uptodate with industry skills and certifications, such as passing the Certified Treasury Professional exam, getting certified with the Healthcare Financial Management Association etc. I had multiple board experiences over the years.
+
+I hope you will elect me to the Rchain board. With your support, I would like to bring my skills in technology, business strategy, finance and operations to stabilize Rchain and enhance our market position such that we are the best and most respected platform and organization in the blockchain/ digital ledger space and beyond.
 
 ## CAMILA REMALEY
 
