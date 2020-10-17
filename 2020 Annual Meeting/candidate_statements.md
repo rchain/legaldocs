@@ -14,8 +14,8 @@ I am Rao Bhamidipati. I have been involved with RChain since the 2018 Governance
 
 - Sustained the technical development momentum with developers from the community when the funds ran out and the previous developer team left en masse.
 - Successfully delivered the mainnet in February 2020 in spite of challenging circumstances and continue to manage the technology delivery program with improved features and quality. I do the technical update part of the community debriefs on Wednesdays.
-- Contributed as a member of the Governane committee for nearly two years (including helping with the 2019 elections processes and technology) and have been chairing it since July 2020
-- Initiated a Tech Governance committee to manage the techno-economic governance of the platform. Worked with community members to come up with appropriate processes and decision mechanisms to govern the growth and security of the Rchain network for all stakeholders
+- Contributed as a member of the Governance committee for nearly two years (including helping with the 2019 elections processes and technology) and have been chairing it since July 2020
+- Initiated a Tech Governance committee to manage the techno-economic governance of the platform. In collaboration with community members, come up with appropriate processes and decision mechanisms to govern the growth and security of the Rchain network for all stakeholders
 - Contributed to the strategy and business plan for RSaas special purpose vehicle (SPV)
 - Currently working intensely on building the developer ecosystem including a hackathon scheduled for Nov 7-8, 2020
 
