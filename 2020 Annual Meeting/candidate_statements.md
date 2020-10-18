@@ -16,12 +16,12 @@ I am Rao Bhamidipati. I have been involved with RChain since the 2018 Governance
 - Successfully delivered the mainnet in February 2020 in spite of challenging circumstances and continue to manage the technology delivery program with improved features and quality. I do the technical update part of the community debriefs on Wednesdays.
 - Contributed as a member of the Governance committee for nearly two years (including helping with the 2019 elections processes and technology) and have been chairing it since July 2020
 - Initiated a Tech Governance committee to manage the techno-economic governance of the platform. In collaboration with community members, come up with appropriate processes and decision mechanisms to govern the growth and security of the Rchain network for all stakeholders
-- Contributed to the strategy and business plan for RSaas special purpose vehicle (SPV)
+- Contributed to the strategy and business plan for RSaas special purpose vehicle (SPV), to enable equity based fund raising for Rchain
 - Currently working intensely on building the developer ecosystem including a hackathon scheduled for Nov 7-8, 2020
 
 Prior to RChain, I had nearly thirty years of experience in the IT and management consulting field. In addition to nine years at Xerox in confidential level management positions with global business exposure, I also worked with many Fortune 100 companies in business and technology roles. I have experience with intrapreneurship in large companies as well as starting and leading startups from scratch. 
 
-I had multiple board experiences over the years, including as a Xerox appointee to the board of the Minority Business Development Corporation (Rochester, NY), with the Association for Image and Information Management (Ohio chapter), and the Healthcare Financial Management Association HFMA (Central Indiana chapter). 
+I had multiple board experiences over the years, including at the Metropolitan New York Computer Aided Software Engineering Group, as a Xerox appointee to the board of the Minority Business Development Corporation (Rochester, NY), with the Association for Image and Information Management (Ohio chapter), and the Healthcare Financial Management Association HFMA (Central Indiana chapter). 
 
 I have a Bachelor's in Electrical Engineering, Masters in Business Administration (merit scholarship) and a Masters in Computer Science (with full fellowship). Additionally, I participated in industry training such as the Xerox Product Development Management program and kept uptodate with industry skills and certifications, such as passing the Certified Treasury Professional exam, getting certified with the Healthcare Financial Management Association etc. 
 
