@@ -19,7 +19,7 @@ I am Rao Bhamidipati. I have been involved with RChain since the 2018 Governance
 - Contributed to the strategy and business plan for RSaas special purpose vehicle (SPV)
 - Currently working intensely on building the developer ecosystem including a hackathon scheduled for Nov 7-8, 2020
 
-Prior to RChain, I had nearly thirty years of experience in the IT and management consulting field. In addition to ten years at Xerox in confidential level management positions with global business exposure, I also worked with many Fortune 100 companies in business and technology roles. I have experience with intrapreneurship in large companies as well as starting and leading startups from scratch. 
+Prior to RChain, I had nearly thirty years of experience in the IT and management consulting field. In addition to nine years at Xerox in confidential level management positions with global business exposure, I also worked with many Fortune 100 companies in business and technology roles. I have experience with intrapreneurship in large companies as well as starting and leading startups from scratch. 
 
 I had multiple board experiences over the years, including as a Xerox appointee to the board of the Minority Business Development Corporation (Rochester, NY), with the Association for Image and Information Management (Ohio chapter), and the Healthcare Financial Management Association HFMA (Central Indiana chapter). 
 
