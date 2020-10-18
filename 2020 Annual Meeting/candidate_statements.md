@@ -1,4 +1,4 @@
-# 2020 Board  Candidate Statements  (DRAFT)
+# 2020 Board  Candidate Statements
 
 ## GREG MEREDITH
 
