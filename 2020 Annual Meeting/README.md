@@ -1,4 +1,4 @@
-## Election Results for 2019 Election
+## Election Results for 2020 Election
 
 Started at: October 21, 2019 at 12:00 pm \
 Finished at: October 24,2019 at 12:00 am \
