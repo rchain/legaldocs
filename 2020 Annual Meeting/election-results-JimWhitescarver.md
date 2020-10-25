@@ -1,5 +1,5 @@
 Independent Tally by [@jimscarver](https://github.com/jimscarver) \
-[tally.sh `add4b`](github.com/rchain/rvote/blob/add4b75a7546aaa9b0a1fc6b776c93ac46f1eb61/src/cli/tally.sh)
+[tally.sh `add4b`](https://github.com/rchain/rvote/blob/add4b75a7546aaa9b0a1fc6b776c93ac46f1eb61/src/cli/tally.sh)
 
 ```
 $ ./tally.sh
