@@ -24,7 +24,17 @@ Darryl has been involved with RChain from before its inception as an active memb
 
 ## Theo Hallenius
 
-<img src="https://rchain.coop/assets/leadership/rchain-team-photo-soon.jpg" width="300"> [LinkedIn](https://www.linkedin.com/in/THEO/)
+<img src="https://rchain.coop/assets/leadership/theo_hallenius.jpg" width="300"> [LinkedIn](https://www.linkedin.com/in/theo-hallenius/)
+
+My name is Fedir (Theo) Hallenius, also known as TheoXD.
+
+I come from a game development background but fell in love with blockchain as I was learning Solidity to build my own sports betting platform. In late 2019 I worked for Enjin Coin as a plugin developer. I live in Sweden, born in Ukraine and can speak both Swedish and Russian.
+
+A friend introduced me to RChain and it’s tech in January 2020 just in time for mainnet launch and I had the opportunity to run the first external validator node on mainnet. Shortly after I joined the Gov. Committee and served there for over a year now.
+
+Currently I'm working at RPublishing, an RChain subsidiary where I help to develop a proof of concept of an NFT marketplace for Eve Arnold’s photo collection on top of Rchain.
+
+I've learned a lot from the current board during the years with RChain and hope to learn more, and I hope to get to represent investors, validators, dapp/game developers and all co-op members in general
 
 
 ## C.M. Macgowan
@@ -41,5 +51,3 @@ I am a long-term investor and if elected to the board I will represent those tha
 My goal, as a member of the board, would be to use my financial and business management knowledge/experience to help the project over what I consider to be the make or break period of the project's life. If elected, I will be requesting the 1 year seat, as I believe after 12 months there will likely be a member with a better skill set to further assist the project along. I will also be requesting that my compensation related to my board seat be divided equally among the research team, not because I believe their compensation isn't fair, but to show my appreciation and support for what they have done and continue to do.
 
 Thank you for your consideration.
-
-C.M. Macgowan
