@@ -51,3 +51,48 @@ I am a long-term investor and if elected to the board I will represent those tha
 My goal, as a member of the board, would be to use my financial and business management knowledge/experience to help the project over what I consider to be the make or break period of the project's life. If elected, I will be requesting the 1 year seat, as I believe after 12 months there will likely be a member with a better skill set to further assist the project along. I will also be requesting that my compensation related to my board seat be divided equally among the research team, not because I believe their compensation isn't fair, but to show my appreciation and support for what they have done and continue to do.
 
 Thank you for your consideration.
+
+## Shixi Lin
+<img src="https://rchain.coop/assets/leadership/shixi-lin.jpg" width="300"> [LinkedIn](https://cn.linkedin.com/in/shixilin)
+
+#### PREVIOUS WORK EXPERIENCE
+
+-   I started my own business and founded & co-founded several companies since I was 17 years old.
+
+-   Over the past years, I helped a top Philippine family fund successfully roll out dozens of industries in Southeast Asia. I always help them with business negotiations, resource search, brand building, market planning, comparing and controlling product details, cost saving, logistics and transportation, etc.
+
+-   I have helped and served companies that have grown into the No.1 E-Sports group and No.1 milk tea brand in Southeast Asia. One of them is valued at around $50 million net and received a $10 million investment from Mizuho Bank in this year.
+
+#### RCHAIN WORK EXPERIENCE
+
+- ADMINISTRATION   SEP. 2017 -- Present
+
+  -   Create, manage and develop RChain's community groups. In ten months in 2021, I helped the Chinese community grow more than ten times larger.
+
+- TOOL CREATORS   OCT. 2017 -- Present
+
+  -   Produced RChain's most comprehensive knowledge tool in English and Chinese and kept it updated: <https://www.yuque.com/guangzhishiyi/rchain>.
+
+- COMMUNICATION   JUNE 2019 -- Present
+
+  -   Find media outlets and work with them to publish news and articles. Updating the community with development progress, teaching and explaining to help more people understand RChain.
+
+- DEVELOPMENT PARTNER   MAY 2020 -- Present
+
+  -   Help the Coop negotiate and get financing and list on the exchanges, creating and managing community volunteer teams. Responsible for running multiple media column accounts. 
+
+  -   I use my text editing, photo editing, audio editing, and video editing skills to help RChain design and produce a lot of promotional materials in English and Chinese.
+
+  -   In 2021 I was responsible for organizing and coordinating a total of seven AMAs and two large events at IFF and AIM. I also serve as a bridge between the English and Chinese communities.
+
+#### MY VISION
+
+I am an Theosophist &  Mystic. I have plenty of practical experience and also always learn knowledge directly from the masters of different factions. And always keep self-learning. This is why I can adapt well to different new changes. I focus on balancing the physical world and the spiritual world. I have kept meditating for as long as I can remember. I love Zen and Tao the most. I have studied many spiritual systems from different cultures around the world, and this is why I am good at integration. This is why I can deeply understand and trust RChain and Greg's visions, because those are my visions too.
+
+The world is changing quickly, but much of it remains the same: laziness, ignorance, and fear are still with us; despite advances in technology. Unfortunately, technology cannot change people's greed. This is also the current state of the blockchain. The world needs to change, and human civilization is already facing another extinction crisis. Climate disasters and international wars are exacerbating... We need more and more people to become aware of it and unite. This time we need to seek a breakthrough for less conflicts, less differences, more transparent and efficient communication and cooperation in the global.
+
+I have seen and experienced a lot of human inequality, suffering, and unrestrained selfishness. I have seen the worst and I have seen the best. I can tolerate ugliness, but I also aspire to beauty. All my vision is to make the blockchain and the real world really connect, welfare society, promote lower learning costs and enhance the economic development of countries, by people getting paid fairly and given more job opportunities. Global trade can also be faster, easier and more dynamic as a result, which allows people to learn more about each other's cultures, and a true global village is thus established.
+
+I always thought that only when people no longer have to worry about clothes and food, then they will naturally begin to desire and learn about spiritual things. When more and more people do such things their frequency and that of the planet will rise. When people find inner peace, the world will no longer have wars and fratricide, and will no longer destroy nature without restraint. It is the only way we can keep racial peace and give back to this planet.
+
+RChain is the fastest way I think we can achieve true large-scale concurrent blockchain technology and right now. I want to witness and accompany RChain through a simulation of borderless governance in the blockchain that will ultimately change the world.
