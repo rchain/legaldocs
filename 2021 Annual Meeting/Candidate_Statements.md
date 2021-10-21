@@ -85,6 +85,8 @@ Thank you for your consideration.
 
   -   In 2021 I was responsible for organizing and coordinating a total of seven AMAs and two large events at IFF and AIM. I also serve as a bridge between the English and Chinese communities.
 
+
+
 #### MY VISION
 
 I am an Theosophist &  Mystic. I have plenty of practical experience and also always learn knowledge directly from the masters of different factions. And always keep self-learning. This is why I can adapt well to different new changes. I focus on balancing the physical world and the spiritual world. I have kept meditating for as long as I can remember. I love Zen and Tao the most. I have studied many spiritual systems from different cultures around the world, and this is why I am good at integration. This is why I can deeply understand and trust RChain and Greg's visions, because those are my visions too.
@@ -96,3 +98,19 @@ I have seen and experienced a lot of human inequality, suffering, and unrestrain
 I always thought that only when people no longer have to worry about clothes and food, then they will naturally begin to desire and learn about spiritual things. When more and more people do such things their frequency and that of the planet will rise. When people find inner peace, the world will no longer have wars and fratricide, and will no longer destroy nature without restraint. It is the only way we can keep racial peace and give back to this planet.
 
 RChain is the fastest way I think we can achieve true large-scale concurrent blockchain technology and right now. I want to witness and accompany RChain through a simulation of borderless governance in the blockchain that will ultimately change the world.
+
+## Eric Meng
+
+<img src="https://github.com/rchain/www.rchain.coop/raw/master/assets/leadership/rchain-team-eric-meng.jpg" width="300"> [LinkedIn](https://www.linkedin.com/in/eric-meng-1045917/)
+
+I’m the founder of WeNode and TokenJar. I have 20 years of experience in high-tech and telecom. I got involved in crypto space in 2013.
+
+As believers of RChain, we need to rebuild the confidence of the community and establish a healthy and workable governance structure. We need to get more people to join the community and contribute. We need concrete action to bridge the gap between a great mission and our advanced technology.
+
+The Chinese community is a strong supporter of RChain. China has thousands of people who believe in RChain and Rholang technology. My mission is to get more Chinese involved in RChain’s ecosystem and to build a powerful Chinese community.
+
+I'm intent to serve as a board member in the next 3 years.
+
+Thank you so much,
+
+Eric
