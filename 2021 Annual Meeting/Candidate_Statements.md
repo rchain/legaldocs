@@ -16,11 +16,23 @@ We have a long road ahead. I hope you agree with me, and support my re-election 
 
 <img src="https://github.com/rchain/www.rchain.coop/raw/master/assets/leadership/Darryl_Bio_Pic.png" width="300"> [LinkedIn](https://www.linkedin.com/in/darryl-neudorf-1830077b/)
 
-Darryl's background is in music production, having worked on several Gold and Platinum Grammy nominated albums throughout his 30+ years in the industry.
+I have been involved with RChain from before its inception, being an active member of the Synereo community since 2015.
 
-His passion is in rooting out the middlemen in an industry infested with them—hence his interest in blockchain’s potential for creating alternative solutions for the artist/appreciator relationship.
+My background is in music production having worked on several Gold and Platinum Grammy nominated albums throughout my 30+ years in the industry. My passion lies in artist empowerment by rooting out the middlemen in an industry infested with them. 
 
-Darryl has been involved with RChain from before its inception as an active member of the Synereo community beginning in early 2015.
+After working for Resonate and RSong over the last few years, and currently as a contractor in Communications for RChain, I founded Emano.io, a music streaming social token network startup designed for the unique advantages of RChain’s technology for asset verification, tracking and provenance and the future evolution of NFT’s with data on chain! I believe that music is a major catalyst for network propagation and will play a key role in RChain’s usage as we reach block merge on main net later this year, and full decentralization in 2022.
+
+I am also very passionate about RChain’s role in the social coordination required for humanity to work together for climate change mitigation.
+
+During my time on the board, I was a strong advocate for creating our SPV entities, Daasl and RChain Publishing. I played an important role in developing  the “empowerment advertising” or “RAdvertising” concepts that became part of the Daasl whitepaper. 
+
+After the hard forks, Dapp growth will be vital in 2022. 
+
+2022 = Dapps, Dapps, Dapps!!!!!
+
+Having recently returned with Greg and Atticbee from the AIM summit in Dubai, I am very excited about what 2022 has in store. The buzz about RChain is just starting to emerge and there is a lot of excitement in the air!
+
+I am grateful for the Chinese community's engagement, energy and loyalty over the years and I will continue to work hard to do what I can to unite our communities better and to help bring RChain to the world.
 
 ## Theo Hallenius
 
