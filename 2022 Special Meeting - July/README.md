@@ -6,7 +6,8 @@
 The vote ran from Sunday, July 3, 2022 5:00:00 PM GMT until Tuesday, July 5, 2022 9:00:00 AM GMT.
 
 ### Results
-
+Both ballot items passed with 80 "Yes" votes and 8 abstentions. \
+80 ballots were cast online, and 8 ballots were cast via email from members who reported technical difficulties in online voting.
 
 ### Only Active Members may vote
 If you are an *Active* Member, your **Notice of Special Meeting** email will say, 
@@ -44,8 +45,8 @@ For additional help, see the [voting on RChain](https://blog.rchain.coop/2020/10
 2. [2021 Annual Meeting](https://vote.rchain.coop/2021/)
 
 ### Testnet Ballot 
-You can test your on our testnet here: \
-[test vote](https://vote.rchain.coop/vote-testnet) for Special Meeting. This is for testing only. Votes don't count.
+If you are registered for this vote, you can test your vote on our testnet. This is for testing only. Votes don't count. \
+[test vote](https://vote.rchain.coop/vote-testnet) for Special Meeting
 
 ---
 
